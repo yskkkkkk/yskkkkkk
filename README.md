@@ -1,10 +1,11 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RYUDAESUNG&fontSize=90" />
-  <br /><br />
+  <br /><br /><br /><br />
 
   
-  <h3>:bulb: Tech Stack</h3>
+  <h2>:bulb: Tech Stack</h2>
+  <h5> Techs that I've used at least once </h5><br />
     <div class="stack">
       <a href="#"><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"></a>
@@ -22,12 +23,13 @@
       <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"></a>
     </div>
-   <br />
+   <br /><br /><br /><br /><br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yskkkkkk&hide=stars,prs,issues,contribs&show_icons=true&theme=highcontrast)
+<a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yskkkkkk&hide=stars,prs,issues,contribs&show_icons=true)</a>
 
+  <div>
+   <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyskkkkkk%2Fhit-counter&count_bg=%233DC8BF&title_bg=%23555555&icon=staffbase.svg&icon_color=%233DC8BF&title=hits&edge_flat=false"/></a>
+  </div>
 </div>
 <br /><br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyskkkkkk%2Fhit-counter&count_bg=%233DC8BF&title_bg=%23555555&icon=staffbase.svg&icon_color=%233DC8BF&title=hits&edge_flat=false"/></a>
