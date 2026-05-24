@@ -1,30 +1,32 @@
-
 <div align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RYUDAESUNG&fontSize=90" /></a>
   <br /><br /><br />
 
-  
-  <h2>:bulb: Tech Stack</h2>
+  <h2>💡 Tech Stack</h2>
   <h5> Techs that I've used at least once </h5>
-    <div class="stack">
-      <a href="#"><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
-     <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
-      <br />
-      <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Jpa-lightgrey?style=flat&logo=appveyor&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/></a>
-      <br />
-      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"></a>
-    </div>
-   <br /><br /><br /><br />
-
+  <div class="stack">
+    <a href="#"><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
+    <br />
+    <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/></a>
+    <br />
+    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
   </div>
+  <br /><br /><br /><br />
+
+  <h2>📊 GitHub Stats</h2>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yskkkkkk&show_icons=true&theme=radical&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yskkkkkk&layout=compact&theme=radical&hide_border=true" height="150" />
+  </div>
+  <br /><br /><br />
 </div>
-<br /><br />
