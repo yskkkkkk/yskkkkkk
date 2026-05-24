@@ -24,9 +24,12 @@
   <br /><br /><br /><br />
 
   <h2>📊 GitHub Stats</h2>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yskkkkkk&show_icons=true&theme=radical&hide_border=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yskkkkkk&layout=compact&theme=radical&hide_border=true" height="150" />
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yskkkkkk&theme=radical" />
+    <br /><br />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yskkkkkk&theme=radical" />
+    <br /><br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yskkkkkk&theme=radical" />
   </div>
   <br /><br /><br />
 </div>
