@@ -17,7 +17,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/></a>
     <br />
     <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white&v=3"></a>
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
   </div>
